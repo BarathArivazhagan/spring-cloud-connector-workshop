@@ -1,0 +1,7 @@
+---
+applications:
+- name: amc-cloud-connector-sample
+  memory: 512M
+  host: amc-cloud-connector-sample
+  path: ./build/libs/amc-cloud-connector-sample-0.0.1-SNAPSHOT.war
+  domain: mybluemix.net
