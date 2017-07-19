@@ -3,5 +3,5 @@ applications:
 - name: amc-cloud-connector-sample
   memory: 512M
   host: amc-cloud-connector-sample
-  path: ./build/libs/amc-cloud-connector-sample-0.0.1-SNAPSHOT.war
+  path: ./target/spring-cloud-connector-binding-service-0.0.1-SNAPSHOT.jar
   domain: mybluemix.net
